@@ -96,6 +96,7 @@ int main() {
 }
 */
 
+
 #include "AdaptiveMemoryAllocator.h"
 #include "MemoryLeakDetector.h"
 #include <iostream>
@@ -275,3 +276,5 @@ int main() {
     std::cin.get();
     return 0;
 }
+
+
